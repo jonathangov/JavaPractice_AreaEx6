@@ -1,0 +1,1 @@
+# JavaPractice_AreaEx6
